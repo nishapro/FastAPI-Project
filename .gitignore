@@ -1,0 +1,26 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.sqlite3
+*.db
+
+# Virtual environment
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Test/coverage
+htmlcov/
+.coverage
+
+# OS files
+.DS_Store
+
+# Docker
+*.log
+
